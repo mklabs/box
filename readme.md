@@ -10,10 +10,8 @@
 - Droid Sans Mono / Roboto
 - ag / fzf / z
 
-**Wallpaper**: [Totoro Gray](http://www.zastavki.com/pictures/originals/2015/Backgrounds_Totoro__gray_background_104137_.png)
 **Terminal**: [Termite](https://github.com/thestinger/termite) with
-[Fish](https://fishshell.com/) / [Oh My
-Fish](https://github.com/oh-my-fish/oh-my-fish),
+[Fish](https://fishshell.com/) / [fisher](https://github.com/fisherman/fisherman),
 [pure](https://github.com/rafaelrinaldi/pure) theme and
 [Roboto](https://www.google.com/fonts/specimen/Roboto) font.
 
@@ -30,7 +28,7 @@ fresh distrib with all the softwares that I use, going from desktop
 environment to display manager and theme/terminal.
 
 ```sh
-git clone git://github.com/mklabs/linux-flavors.git
-cd linux-flavors
+git clone git://github.com/mklabs/box.git
+cd box
 ./bin/manjaro.sh
 ```
