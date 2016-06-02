@@ -1,4 +1,4 @@
-# linux-flavors
+# box
 
 > Installation script to setup a workstation and bootstrap a fresh installation.
 
